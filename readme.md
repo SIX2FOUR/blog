@@ -1,4 +1,4 @@
-#管理者 11
+#去掉管理者
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 #用户新增内容
 <p align="center">
